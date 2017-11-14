@@ -1,4 +1,4 @@
-###FREE COMPUTER SCIENCE PROGRAM
+### FREE COMPUTER SCIENCE PROGRAM
 [https://github.com/ossu/computer-science]
 
 ### Linkovi vezani za strukturu file-ova: (ovaj prvi FE projekat, je neki moj kao starter, mozes slobodno da ga koristis ako ti se svidi)
